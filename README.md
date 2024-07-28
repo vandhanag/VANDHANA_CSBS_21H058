@@ -1,3 +1,4 @@
+Mars Rover Simulation and Design Patterns in Java
 Exercise 1: Mars Rover Simulation
 Overview
 This project simulates the movement of a Mars Rover on a 10x10 grid. The rover can move forward, turn left, and turn right. The grid contains obstacles that the rover must detect and avoid.
@@ -131,3 +132,4 @@ Java Development Kit (JDK) installed
 Basic knowledge of Java programming
 Conclusion
 This project demonstrates various software design patterns in Java with simple and easy-to-understand examples. Each pattern is implemented in a separate class with a specific use case and expected output.
+
