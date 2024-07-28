@@ -1,6 +1,3 @@
-
-Sure, here are separate README sections for Exercise 1 and Exercise 2, which you can combine into a single README file for your git repository.
-
 Exercise 1: Mars Rover Simulation
 Overview
 This project simulates the movement of a Mars Rover on a 10x10 grid. The rover can move forward, turn left, and turn right. The grid contains obstacles that the rover must detect and avoid.
