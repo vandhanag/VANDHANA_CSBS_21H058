@@ -1,0 +1,19 @@
+# Ignore the bin directory where compiled classes are stored
+bin/
+
+# Ignore any class files
+*.class
+
+# Ignore any log files
+*.log
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Ignore VSCode project files
+.vscode/
+
+# Ignore macOS files
+.DS_Store
